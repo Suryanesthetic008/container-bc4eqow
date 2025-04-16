@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Suryanesthetic008",
+  "repo": "container-bc4eqow",
+  "name": "Suryanesthetic008",
+  "email": "suriyaprakashekowatt@gmail.com",
+}
